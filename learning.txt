@@ -1,2 +1,4 @@
 learning github
 learning github
+continue learning git
+git is amazing 
